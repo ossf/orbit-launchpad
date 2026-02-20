@@ -63,8 +63,8 @@ test se
 
 [TODO: Update with your WG meeting details]
 *   Every other Tuesday @ 10:00am PST (Link to calendar invite)
-*   [Meeting Minutes](https://docs.google.com/document/d/1uXQI1vI5_HyOvxHMexrnTY_ruBrynbPl5yOd1UM4g3A/edit#heading=h.yworp6sxzb6g)
-
+*   [Meeting Minutes]
+(https://docs.google.com/document/d/1HIe6ftj18YldRy55BsPbgTj0Za2duCck0W4dZAw1sGw/edit?tab=t.0#heading=h.xotze5hysasn)
 # 
 **Governance**
 
