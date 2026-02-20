@@ -1,4 +1,4 @@
-# **OSSF Project/WG Name**
+# **OSSF ORBIT: Launchpad Special Interest Group**
 
 [Brief description of the initiative]
 
