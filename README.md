@@ -44,7 +44,7 @@ community bi-weekly meetings with a calendar invite with this [link](https://zoo
 # 
 **Governance**
 
-The [CHARTER.md](https://github.com/ossf/project-template/blob/main/CHARTER.md) outlines the scope and governance of our group activities.
+The [CHARTER.md](https://github.com/ossf/orbit-launchpad/blob/main/CHARTER.md)outlines the scope and governance of our group activities.
 
 Co-Chairs
 *   Sarah Evans Sarah.evans@dell.com,
