@@ -1,20 +1,20 @@
 # Technical Charter for Open Source Security Foundation
 
-[Launchpad SIG]
+## Launchpad SIG
 
 Adopted 2.5.26
 
-This Technical Charter sets forth the responsibilities and procedures for technical contribution to, and oversight of, the [Launchpad SIG] open source community, which has been established as a [Special Interest Goup (SIG)] (the "Technical Initiative") under the Open Source Security Foundation (the “OpenSSF”).  All contributors (including committers, maintainers, and other technical positions) and other participants in the Technical Initiative (collectively, “Collaborators”) must comply with the terms of this Technical Charter and the OpenSSF Charter. 
+This Technical Charter sets forth the responsibilities and procedures for technical contribution to, and oversight of, the Launchpad SIG open source community, which has been established as a Special Interest Goup (SIG) (the "Technical Initiative") under the Open Source Security Foundation (the “OpenSSF”).  All contributors (including committers, maintainers, and other technical positions) and other participants in the Technical Initiative (collectively, “Collaborators”) must comply with the terms of this Technical Charter and the OpenSSF Charter. 
 
 #### 1. Mission and Scope of the Technical Initiative
 
-- a. The mission of the Technical Initiative is to [connect the maintainers of open source supply chain security tooling to their end users in a way that facilitates mutually beneficial alignment].
+- a. The mission of the Technical Initiative is to connect the maintainers of open source supply chain security tooling to their end users in a way that facilitates mutually beneficial alignment.
 
 - b. The scope of the Technical Initiative includes collaborative development under the Technical Initiative License (as defined herein) supporting the mission, including organizing collaboration activities, defining best practices, documentation, testing, integration, and the creation of other artifacts that support the mission.
 
 #### 2. Technical Steering Committee
 
-- a. The Technical Steering Committee (the "TSC") will be responsible for all oversight of the Technical Initiative. 
+- a. The ORBIT Working Group (WG) Technical Steering Committee will be responsible for all oversight of the Technical Initiative.
 
 - b. The TSC voting members are initially the Technical Initiative’s Maintainers. The Maintainers will be documented in the Technical Initiative repository. The TSC is responsible for determining the future process for defining voting members of the TSC, and any such alternative approach will also be documented appropriately.  Any meetings of the Technical Steering Committee are intended to be open to the public, and can be conducted electronically, via teleconference, or in person. 
 
