@@ -1,17 +1,15 @@
 # **OSSF ORBIT: Launchpad Special Interest Group**
 
-The Launchpad SIG is a group working with the Open Resources for Baselines, Interoperability and Tooling Working Group (WG). 
+The Launchpad SIG is a group working within the Open Resources for Baselines, Interoperability and Tooling Working Group (WG). 
 
 ORBIT exists to develop and maintain interoperable resources for the identification and presentation of security-relevant data. It provides a home for collaborative activities, best practice definitions, documentation, testing, integration, and other artifacts supporting the mission. The Launchpad exists to connect maintainers of open source supply chain security tooling to their end users in a way that faciliates mutually beneficial alignment.
 
 This SIG will partner closely with the Cyber Policy Working Group to identify and document specific compliance obligations that can drive tooling requirements for the upstream consumption of open source software. The Global Cyber Compliance Policy WG has on-going guidance discussions on preparing for OSS consumption.  While the motivation of this SIG is due to CRA timelines, the goal is to accelerate tooling progress for the community. 
 
-
 ## 
 **Motivation**
 
 With the coming CRA regulation, many manufacturers of digital elements have spent the past year investing time and expertise in improving secure supply chain processes for their proprietary code. The motivation of this SIG is to use OpenSSF as a foundation for enterprises to share knowledge and tooling to uplift the community that consumes open source dependencies  by creating a collaboration space for those large enterprises to donate their learnings and engineering expertise. The goal is  to help accelerate access to harmonized tools to all members of the community who desire to perform good software security development practices using open source guidance and tools, regardless of size, time available for security, or security expertise. Additionally, the tools that open source projects have at their disposal to champion their secure software development practices should seamlessly work without any additional effort to those open source developers, and be easily consumed by any consumer of that open source as a dependency to demonstrate compliance. This is the work that OpenSSF has been doing in the past, and has created building blocks to do so. The motivation of this SIG is to accelerate harmonizing and completing OSS consumption guidance and tooling in 2026 in alignment with CRA deadlines.
-
 
 ## 
 **Objective**
