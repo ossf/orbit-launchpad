@@ -1,80 +1,56 @@
 # **OSSF ORBIT: Launchpad Special Interest Group**
 
-[Brief description of the initiative]
+The Launchpad SIG is a group working with the Open Resources for Baselines, Interoperability and Tooling Working Group (WG). 
+
+ORBIT exists to develop and maintain interoperable resources for the identification and presentation of security-relevant data. It provides a home for collaborative activities, best practice definitions, documentation, testing, integration, and other artifacts supporting the mission. The Launchpad exists to connect maintainers of open source supply chain security tooling to their end users in a way that faciliates mutually beneficial alignment.
+
+This SIG will partner closely with the Cyber Policy Working Group to identify and document specific compliance obligations that can drive tooling requirements for the upstream consumption of open source software. The Global Cyber Compliance Policy WG has on-going guidance discussions on preparing for OSS consumption.  While the motivation of this SIG is due to CRA timelines, the goal is to accelerate tooling progress for the community. 
 
 
 ## 
 **Motivation**
 
-[Background / use cases of the problem to be solved]
+With the coming CRA regulation, many manufacturers of digital elements have spent the past year investing time and expertise in improving secure supply chain processes for their proprietary code. The motivation of this SIG is to use OpenSSF as a foundation for enterprises to share knowledge and tooling to uplift the community that consumes open source dependencies  by creating a collaboration space for those large enterprises to donate their learnings and engineering expertise. The goal is  to help accelerate access to harmonized tools to all members of the community who desire to perform good software security development practices using open source guidance and tools, regardless of size, time available for security, or security expertise. Additionally, the tools that open source projects have at their disposal to champion their secure software development practices should seamlessly work without any additional effort to those open source developers, and be easily consumed by any consumer of that open source as a dependency to demonstrate compliance. This is the work that OpenSSF has been doing in the past, and has created building blocks to do so. The motivation of this SIG is to accelerate harmonizing and completing OSS consumption guidance and tooling in 2026 in alignment with CRA deadlines.
 
-test se
+
 ## 
 **Objective**
 
-[What is to be achieved with this initiative]
+Align Manufacturer CRA Compliance Requirements: Identify and document specific CRA compliance obligations that apply to the consumption of open source software for manufacturers.
 
-[OKRs - OPTIONAL]
+Partner to Drive ORBIT Tooling Improvements Assess Baseline Catalog and extend to create a set of controls for CRA compliance for manufacturers.  Evaluate existing tools as needed for CRA requirements not met by Baselines and implement improvements. Identify tooling gaps, create issues to address gaps enabling developer community engagement.
 
+Promote ORBIT Tooling Improvements: Drive awareness for achieving and demonstrating secure compliance within the context of software supply chain security. Partner with Global Policy WG to develop CRA Security Compliance Tooling Guidance.
 
-## 
-**Scope**
-
-[What is in and out of scope]
-
-
-## 
-**Prior Work**
-
-
-
-*   List of prior and/or related projects
 
 ## 
 **Active Projects**
 
-[Optional]
+As of February 23, this SIG has met twice to discuss the 2026 roadmap and is actively working on prioritizing objectives. 
 
-## 
-**Inactive Projects**
-
-[Optional]
 
 # 
 **Get Involved**
 
-*   Official communications occur on the [ADD LINK TO YOUR WG MAILING LIST] (ex: https://lists.openssf.org/g/openssf-tac/topics).  \
-[Manage your subscriptions to Open SSF mailing lists](https://lists.openssf.org/g/main/subgroups).
-*   [Add Slack information if availabable]
+*  Star this repository
+*  Introduce yourself on Slack #sig-orbit-launchpad
+*  Join a SIG meeting 
 
-## 
-
-
-### 
-**Quick Start**
-
-*   Areas that need contributions
-*   Build information if applicable
-*   Where to file issues
-*   Etc.
 
 ## 
 **Meeting times**
 
-[TODO: Update with your WG meeting details]
-*   Every other Tuesday @ 10:00am PST (Link to calendar invite)
-*   [Meeting Minutes]
-(https://docs.google.com/document/d/1HIe6ftj18YldRy55BsPbgTj0Za2duCck0W4dZAw1sGw/edit?tab=t.0#heading=h.xotze5hysasn)
+*   Every other Friday at (March 6), 10:30 am MST; you can register for the
+community bi-weekly meetings with a calendar invite with this [link](https://zoom-lfx.platform.linuxfoundation.org/meeting/98634404867?password=1ca1a37c-4e20-4532-90af-88c3b97f465a&invite=true).
+*   [Meeting Minutes](https://docs.google.com/document/d/1RTXX5TjPQjvlXvQFHHYq-Q5CnPWRrvRbeED603hPfk0/edit?tab=t.btmtfjk18wve#heading=h.sor2rsxqqeql)
 # 
 **Governance**
 
-[TODO: Update this link to your specific CHARTER.md file]
 The [CHARTER.md](https://github.com/ossf/project-template/blob/main/CHARTER.md) outlines the scope and governance of our group activities.
 
-
-[OPTIONAL]
-*   Lead name 
-*   Co-Lead name
+Co-Chairs 
+*   Sarah Evans (Dell) 
+*   Nicole Bates (Microsoft)
 
 #
 **Intellectual Property**
