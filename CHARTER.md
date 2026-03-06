@@ -38,6 +38,7 @@ The SIG supports multiple initiatives to further its goals. In addition to compi
 | [OSPS Baseline Scanner](https://github.com/ossf/pvtr-github-repo-scanner) | Jason Meridth |
 | [SI Tooling](https://github.com/ossf/si-tooling) | Eddie Knight |
 | [Gemara MCP Server](https://github.com/gemaraproj/gemara-mcp) | Jenn Power |
+| [Gemara SDK for Go](https://github.com/gemaraproj/go-gemara) | Jenn Power |
 
 ## Community Consensus
 
