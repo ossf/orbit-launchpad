@@ -28,6 +28,18 @@ Tooling development will focus on ease of use and integration into existing deve
 
 We are not aiming for perfection or analysis/paralysis. We will engage in continuous CI/CD cycles. 
 
+## Supported Tools
+
+The SIG supports multiple initiatives to further its goals. In addition to compiling feedback for ORBIT Technical Initiatives, the SIG provides a reporting structure for ORBIT software projects ("Supported Tools"). On a quarterly basis, the SIG Chair will provide a summary of recent developments on Supported Tools to the ORBIT Technical Steering Committee. New Supported Tools may be added with approval of the ORBIT TSC. In the case of larger projects, additional approval by the OpenSSF Technical Advisory Committee may be required.
+
+| Tool | Lead |
+| --- | --- |
+| [Minder](https://mindersec.dev/) | Evan Anderson |
+| [OSPS Baseline Scanner](https://github.com/ossf/pvtr-github-repo-scanner) | Jason Meridth |
+| [SI Tooling](https://github.com/ossf/si-tooling) | Eddie Knight |
+| [Gemara MCP Server](https://github.com/gemaraproj/gemara-mcp) | Jenn Power |
+| [Gemara SDK for Go](https://github.com/gemaraproj/go-gemara) | Jenn Power |
+
 ## Community Consensus
 
 Contributions to the SIG repository may take many forms. It is the responsibility of the Approvers to ensure that all contributions are representative of the greater community.
